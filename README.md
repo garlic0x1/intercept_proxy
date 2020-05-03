@@ -1,5 +1,5 @@
 # intercept_proxy
-The C program opens a socket to proxy your browser through.  On reciving a request, send.sh lets us edit the request before it is sent using netcat.  Traffic is stored in the current directory.
+The C program opens a socket to proxy your browser through.  On recieving a request, send.sh lets us edit the request before it is sent using netcat.  Traffic is stored in the current directory.
 
 # todo
 add https
