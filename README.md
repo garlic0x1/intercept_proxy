@@ -1,2 +1,2 @@
 # intercept_proxy
-Proof of concept of an http proxy.  Set your browser to use localhost:8888 as a proxy.
+The C program opens a socket to proxy your browser through.  On reciving a request, send.sh lets us edit the request before it is sent.  All traffic is stored in the current dir
